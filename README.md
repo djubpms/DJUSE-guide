@@ -25,9 +25,9 @@
 - Version Control
 
 ### 읽으면 도움되는 책들(굵은 글씨는 필수)
-- *The Clean Coder*
-- *CODE: The Hidden Language of Computer Hardware and Software*
-- *Code Complete*
+- **The Clean Coder**
+- **CODE: The Hidden Language of Computer Hardware and Software**
+- **Code Complete**
 - Structure and interpretation of computer programs 2/E
 - The Pragmatic Programmer
 - Introduction to Algorithm
